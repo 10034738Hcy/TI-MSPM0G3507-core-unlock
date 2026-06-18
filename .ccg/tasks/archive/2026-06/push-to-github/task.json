@@ -1,12 +1,12 @@
 {
   "id": "push-to-github",
   "title": "Push current project to GitHub remote",
-  "status": "in_progress",
+  "status": "completed",
   "complexity": "S",
   "risk": "medium",
   "domain": "git",
-  "currentPhase": "review",
-  "nextAction": "Commit staged source files and push to GitHub",
+  "currentPhase": "completed",
+  "nextAction": "Archive task",
   "createdAt": "2026-06-18T16:30:00+08:00",
   "branch": "none"
 }
