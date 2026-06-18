@@ -22,6 +22,9 @@ dist/
 # Local PyInstaller helper output
 .build_shims/
 
+# Local CCG workflow/task records
+.ccg/
+
 # Third-party runtime binaries from TI/XDS tooling.
 # Keep these out of the public repository unless their redistribution
 # license has been checked.
