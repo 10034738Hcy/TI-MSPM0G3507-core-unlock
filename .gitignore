@@ -1,0 +1,41 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Test and tooling cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build outputs
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Local PyInstaller helper output
+.build_shims/
+
+# Third-party runtime binaries from TI/XDS tooling.
+# Keep these out of the public repository unless their redistribution
+# license has been checked.
+runtime/
+
+# Local editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
