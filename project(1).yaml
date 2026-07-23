@@ -1,5 +1,5 @@
 name: MICU MSPM0 BSL烧录工具
-authors: [MICU]
+authors: [彩笔]
 category: Tool
 tags: [MSPM0, BSL, 烧录, XDS110, 串口]
 status: in-progress
