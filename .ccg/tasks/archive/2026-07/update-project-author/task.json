@@ -1,0 +1,13 @@
+{
+  "id": "update-project-author",
+  "title": "Update project YAML author",
+  "status": "completed",
+  "complexity": "S",
+  "risk": "low",
+  "domain": "release-notes",
+  "currentPhase": "completed",
+  "nextAction": "Archived under .ccg/tasks/archive/2026-07",
+  "createdAt": "2026-07-23T22:26:00+08:00",
+  "completedAt": "2026-07-23T22:29:00+08:00",
+  "branch": "main"
+}
