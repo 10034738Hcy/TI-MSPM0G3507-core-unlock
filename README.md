@@ -1,6 +1,6 @@
 # TI-MSPM0G3507-core-unlock
 
-基于原 `MSPM0 BSL GUI` 的 BSL 流程重构。
+
 
 ## 使用
 
