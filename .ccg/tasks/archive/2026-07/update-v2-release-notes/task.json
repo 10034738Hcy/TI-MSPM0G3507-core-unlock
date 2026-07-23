@@ -1,0 +1,13 @@
+{
+  "id": "update-v2-release-notes",
+  "title": "Fill v2 added content in project YAML",
+  "status": "completed",
+  "complexity": "S",
+  "risk": "low",
+  "domain": "release-notes",
+  "currentPhase": "completed",
+  "nextAction": "Archived under .ccg/tasks/archive/2026-07",
+  "createdAt": "2026-07-23T22:03:00+08:00",
+  "completedAt": "2026-07-23T22:12:00+08:00",
+  "branch": "main"
+}
