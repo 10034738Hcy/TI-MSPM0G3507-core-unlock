@@ -1,0 +1,18 @@
+name: MICU MSPM0 BSL烧录工具
+authors: [彩笔]
+category: Tool
+tags: [MSPM0, BSL, 烧录, XDS110, 串口]
+status: in-progress
+updated: 2026-07-23
+summary: 面向 TI MSPM0G3507 的 BSL 固件烧录工具，支持 XDS110 和手动串口模式。
+
+logo: assets/logo.png
+readme: README.md
+
+v2新增内容: |
+  BSL 烧录逻辑更稳
+  - 增加串口缓存清理，减少上一次通信残留影响
+  - 自动波特率同步增加重试机制
+  - 对 0x51 同步失败、ACK 异常、无响应等情况增加更明确日志
+  - XDS110 模式下会优先使用检测到的 XDS110 UART 端口，避免误用之前选过的 CH340/其他串口
+  - 串口超时逻辑更细，失败原因更容易判断
